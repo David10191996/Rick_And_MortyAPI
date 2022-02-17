@@ -5,18 +5,28 @@
 
 .header {
   width: 100%;
-  z-index: 1;  /* z-index sirve para super poner las cosas, 2d */
+  z-index: 1; /* z-index sirve para super poner las cosas, 2d */
 }
 
 .headerStyle {
-  color: #aee6e3;
+  color: #fffb00;
+}
+
+.texCard{
+  color:#aee6e3;
 }
 
 .characters {
-    margin-top: 140px;
-    margin-bottom: 60px;
+  margin-top: 140px;
+  margin-bottom: 60px;
 }
 
-body{
-    background-color: #756951;
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #2f4368;
+  background-attachment: fixed;
+  background-position: center center;
 }
+
+
